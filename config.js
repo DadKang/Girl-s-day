@@ -32,7 +32,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "培训部六位仙女节日快乐",
+        wish_message: "培训部的仙女们节日快乐",
         story: "祝福听一听？",
     }
 };
